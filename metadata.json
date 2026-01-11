@@ -1,0 +1,8 @@
+{
+  "name": "Copy of EthoLens - AI Animal Behavior Translator",
+  "description": "An expert ethological analysis tool that translates animal behavior, vocalizations, and body language into human insights using advanced Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
